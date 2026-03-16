@@ -1,0 +1,9 @@
+{
+  "name": "Refex",
+  "description": "Enterprise Finance Automation Platform integrated with Tally ERP",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
